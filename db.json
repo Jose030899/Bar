@@ -6,34 +6,6 @@
           "Precio": 40,
           "Estado": "Disponible",
           "Imagen": "https://www.superama.com.mx/Content/images/products/img_large/0750106419854L.jpg"
-      },
-      {
-          "id": 2,
-          "Nombre": "Corona",
-          "Precio": 30,
-          "Estado": "Disponible",
-          "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5URlktYq81S7l3nRI6N3JhIzZtYKwLRFSrbbAImDnVofMXKHzQ&s.jpg"
-      },
-      {
-          "id": 3,
-          "Nombre": "Victoria",
-          "Precio": 35,
-          "Estado": "Disponible",
-          "Imagen": "https://www.superama.com.mx/Content/images/products/img_large/0750106419413L1.jpg"
-      },
-      {
-          "id": 4,
-          "Nombre": "Heineken",
-          "Precio": 45,
-          "Estado": "Disponible",
-          "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX4E5inG2-h2raCwtebZzIBPmsTo5pdwpo-qVK7GN_l10Sf_-5EzIbDIM&s"
-      },
-      {
-          "id": 5,
-          "Nombre": "Carta Blanca",
-          "Precio": 15,
-          "Estado": "Disponible",
-          "Imagen": "https://merkdoo.com/pub/media/catalog/product/cache/60c5c327fc4df5ec83cf22cf23fecb73/h/t/httpss3-us-west-2.amazonaws.commerkdoomedia750106165154-c.jpg"
       }
     ]
 }
