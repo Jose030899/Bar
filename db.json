@@ -5,35 +5,35 @@
           "Nombre": "Modelo",
           "Precio": 40,
           "Estado": "Disponible",
-          "Imagen": "https://cdn.pixabay.com/photo/2016/09/29/13/08/planet-1702788__340.jpg"
+          "Imagen": "https://www.superama.com.mx/Content/images/products/img_large/0750106419854L.jpg"
       },
       {
           "id": 2,
           "Nombre": "Corona",
           "Precio": 30,
           "Estado": "Disponible",
-          "Imagen": "https://cdn.pixabay.com/photo/2015/11/04/20/59/milky-way-1023340__340.jpg"
+          "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5URlktYq81S7l3nRI6N3JhIzZtYKwLRFSrbbAImDnVofMXKHzQ&s.jpg"
       },
       {
           "id": 3,
           "Nombre": "Victoria",
           "Precio": 35,
           "Estado": "Disponible",
-          "Imagen": "https://cdn.pixabay.com/photo/2012/08/25/22/22/space-54999__340.jpg"
+          "Imagen": "https://www.superama.com.mx/Content/images/products/img_large/0750106419413L1.jpg"
       },
       {
           "id": 4,
           "Nombre": "Heineken",
           "Precio": 45,
           "Estado": "Disponible",
-          "Imagen": "https://cdn.pixabay.com/photo/2019/04/06/06/44/astronaut-4106766__340.jpg"
+          "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX4E5inG2-h2raCwtebZzIBPmsTo5pdwpo-qVK7GN_l10Sf_-5EzIbDIM&s"
       },
       {
           "id": 5,
           "Nombre": "Carta Blanca",
           "Precio": 15,
           "Estado": "Disponible",
-          "Imagen": "https://cdn.pixabay.com/photo/2011/12/14/12/11/astronaut-11080__340.jpg"
+          "Imagen": "https://merkdoo.com/pub/media/catalog/product/cache/60c5c327fc4df5ec83cf22cf23fecb73/h/t/httpss3-us-west-2.amazonaws.commerkdoomedia750106165154-c.jpg"
       }
     ]
 }
