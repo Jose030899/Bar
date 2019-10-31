@@ -39,38 +39,38 @@
     "Tequila": [
         {
           "id": 1,
-          "Nombre": "Modelo",
-          "Precio": 40,
+          "Nombre": "Centenario",
+          "Precio": 350,
           "Estado": "Disponible",
-          "Imagen": "https://i.ibb.co/02th7Y4/modelo-lata.jpg"
+          "Imagen": "https://i.ibb.co/SKJXVwS/Tequila-Centenario.jpg"
       },
       {
           "id": 2,
-          "Nombre": "Corona",
-          "Precio": 30,
+          "Nombre": "1800 Añejo",
+          "Precio": 600,
           "Estado": "Disponible",
-          "Imagen": "https://i.ibb.co/vYndHh8/corona-lata.jpg"
+          "Imagen": "https://i.ibb.co/XjZLFHR/Tequila-1800-A-ejo1.jpg"
       },
       {
           "id": 3,
-          "Nombre": "Victoria",
-          "Precio": 35,
+          "Nombre": "Jose Cuervo Tradicional",
+          "Precio": 300,
           "Estado": "Disponible",
-          "Imagen": "https://i.ibb.co/Br121xn/Victoria-lata.jpg"
+          "Imagen": "https://i.ibb.co/xLnVGB7/Tequila-Jose-Cuervo-Tradicional.jpg"
       },
       {
           "id": 4,
-          "Nombre": "Heineken",
-          "Precio": 45,
+          "Nombre": "Don Julio 70",
+          "Precio": 850,
           "Estado": "Disponible",
-          "Imagen": "https://i.ibb.co/fdRbYXy/Heineken-lata.jpg"
+          "Imagen": "https://i.ibb.co/F64C91S/Tequila-Don-Julio-70.jpg"
       },
       {
           "id": 5,
-          "Nombre": "Carta Blanca",
-          "Precio": 15,
+          "Nombre": "Patron Añejo",
+          "Precio": 750,
           "Estado": "Disponible",
-          "Imagen": "https://i.ibb.co/YNmJrBK/Carta-Blanca-lata.jpg"
+          "Imagen": "https://i.ibb.co/T0RKJ44/Tequila-Patron.jpg"
       }
     ]
 }
