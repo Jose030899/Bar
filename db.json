@@ -35,5 +35,42 @@
           "Estado": "Disponible",
           "Imagen": "https://i.ibb.co/YNmJrBK/Carta-Blanca-lata.jpg"
       }
+    ],
+    "Tequila": [
+        {
+          "id": 1,
+          "Nombre": "Modelo",
+          "Precio": 40,
+          "Estado": "Disponible",
+          "Imagen": "https://i.ibb.co/02th7Y4/modelo-lata.jpg"
+      },
+      {
+          "id": 2,
+          "Nombre": "Corona",
+          "Precio": 30,
+          "Estado": "Disponible",
+          "Imagen": "https://i.ibb.co/vYndHh8/corona-lata.jpg"
+      },
+      {
+          "id": 3,
+          "Nombre": "Victoria",
+          "Precio": 35,
+          "Estado": "Disponible",
+          "Imagen": "https://i.ibb.co/Br121xn/Victoria-lata.jpg"
+      },
+      {
+          "id": 4,
+          "Nombre": "Heineken",
+          "Precio": 45,
+          "Estado": "Disponible",
+          "Imagen": "https://i.ibb.co/fdRbYXy/Heineken-lata.jpg"
+      },
+      {
+          "id": 5,
+          "Nombre": "Carta Blanca",
+          "Precio": 15,
+          "Estado": "Disponible",
+          "Imagen": "https://i.ibb.co/YNmJrBK/Carta-Blanca-lata.jpg"
+      }
     ]
 }
